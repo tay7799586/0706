@@ -51,4 +51,4 @@ for row in rows:
     except:
         pass
 db.close()
-mysql_conn.close() #ggggg
+mysql_conn.close() #你好!
